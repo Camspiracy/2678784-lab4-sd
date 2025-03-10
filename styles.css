@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+button {
+    border-radius: 15px 50px;
+    background: #a821ad;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+  }
+
+#country-info{
+    background-color: blueviolet;
+}
+#bordering-countries{
+    background-color: cornflowerblue;
+}
